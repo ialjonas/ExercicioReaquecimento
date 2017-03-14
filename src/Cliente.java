@@ -1,7 +1,8 @@
 
 public class Cliente {
-	private int idade;
 	private String nome;
+	private int idade;
+	
 
 	public Cliente(String nome,int idade) {
 		this.idade = idade;
