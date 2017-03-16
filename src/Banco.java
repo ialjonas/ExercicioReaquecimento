@@ -25,8 +25,4 @@ public class Banco {
 	public LinkedList<Caixa> getCaixas() {
 		return this.caixas;
 	}
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> branch 'ExercicioReaquecimento' of https://github.com/ialjonas/ExercicioReaquecimento.git

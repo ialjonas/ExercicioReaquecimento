@@ -23,10 +23,6 @@ public class Cliente {
 		this.idade = idade;
 	}
 
-	public void setIdade(int idade) {
-		this.idade = idade;
-	}
-
 	@Override
 	public String toString() {
 		return "Cliente [idade=" + idade + ", nome=" + nome + "]";
